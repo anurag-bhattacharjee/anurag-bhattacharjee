@@ -10,5 +10,7 @@ and a Bachelor's of Technology in Electronics and Communication Engineering from
 - 📫 How to reach me ...
 
 ❇️ Email: anurag.bhattacharjee.nits@gmail.com
+
 ❇️ Website: https://anurag-bhattacharjee.github.io
+
 ❇️ Github: https://github.com/anurag-bhattacharjee
